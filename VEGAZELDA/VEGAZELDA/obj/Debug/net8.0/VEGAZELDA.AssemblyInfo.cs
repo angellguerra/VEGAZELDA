@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VEGAZELDA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40ff5c325b1f2dfe3d3eb9fcbbb4d4396846d64a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a419cc17e16a19f253b70fddec694d367760a226")]
 [assembly: System.Reflection.AssemblyProductAttribute("VEGAZELDA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VEGAZELDA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
